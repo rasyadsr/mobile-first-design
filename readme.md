@@ -1,11 +1,6 @@
-/* Variable */
+## Breakpoint for Mobile first design
 
-/* Reset */
-
-/* Base styles */
-
-/* Fonts */
-
+```css
 /* Mobile styles */
 
 /* Small table styles */
@@ -19,3 +14,4 @@
 /* Desktop styles */
 @media screen and(min-width: 1200px) {
 }
+```
