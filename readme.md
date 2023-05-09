@@ -4,14 +4,14 @@
 /* Mobile styles */
 
 /* Small table styles */
-@media screen and(min-width: 620px) {
+@media screen and (min-width: 620px) {
 }
 
 /* Large tables & laptop styles */
-@media screen and(min-width: 960px) {
+@media screen and (min-width: 960px) {
 }
 
 /* Desktop styles */
-@media screen and(min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 }
 ```
